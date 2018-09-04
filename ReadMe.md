@@ -53,7 +53,7 @@ A Simple but also quite powerful and Beautiful [Force directed graph](https://en
 
 - Medium:
   -
-  -- generally Low Level Grapchics
+  -- generally Low Level Grapchics<\br>
   -- Clustering algorithms
   -- Faster Algorithms
 
