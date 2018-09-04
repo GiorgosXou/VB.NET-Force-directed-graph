@@ -47,21 +47,21 @@ A Simple but also quite powerful and Beautiful [Force directed graph](https://en
 ```Considering my knowledge at this moment [...]```
 - Easy :
   -
-  -- Thickness Of Lines, Based on Connections or etc.
-  -- Size Of Node, Based on  Connections or etc.
-  -- [...]
+  -- Thickness Of Lines, Based on Connections or etc.<br/>
+  -- Size Of Node, Based on  Connections or etc.<br/>
+  -- [...]<br/>
 
 - Medium:
   -
-  -- generally Low Level Grapchics<\br>
-  -- Clustering algorithms
-  -- Faster Algorithms
+  -- generally Low Level Grapchics<br/>
+  -- Clustering algorithms<br/>
+  -- Faster Algorithms<br/>
 
 - Hard :
   -
-  -- *3D Graph visualization*.
-  -- *Make it as a Form **Control***. 
-  -- Recreation of most of the controls using DirectX.
+  -- *3D Graph visualization*.<br/>
+  -- *Make it as a Form **Control***. <br/>
+  -- Recreation of most of the controls using DirectX.<br/>
   
 
 
