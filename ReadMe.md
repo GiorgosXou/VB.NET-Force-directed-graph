@@ -74,14 +74,14 @@ A Simple but also quite powerful and Beautiful [Force directed graph](https://en
 |[Simple Algorithms for Network Visualization](https://pdfs.semanticscholar.org/9f0f/5a1507b83f96bcedbf2b8971fde21948b086.pdf)|[VB Graphics Programming: Part 4 (Optimizations Checklist)](http://www.tannerhelland.com/43/vb-graphics-programming-4/)|[graphing with Graphviz](http://www.washedashore.com/people/friendster/friendster3.html)|
 |[A Force Directed Placement Method](https://pdfs.semanticscholar.org/0cb0/4409a72f4499a4a1bce0dffcf8e789ef8649.pdf)|[Direct3D For Dummiez (In VB6) written by: Matt Carpenter](http://agrino.org/hsg/DirectX/DX.htm)|[wingraphviz](http://wingraphviz.sourceforge.net/wingraphviz/)|
 |[Force Directed Layout of Diagrams](https://pdfs.semanticscholar.org/0ad8/55e06fe6bba4fb265c74bfe44b54de7d3b0a.pdf)|[OpenCL Tutorial](http://www.cmsoft.com.br/opencl-tutorial/)|[quickgraph](https://archive.codeplex.com/?p=quickgraph)|
-|[METHOD FOR FAST FORCE-DIRECTED LAYOUT OF LARGE SCALE-FREE NETWORK GRAPHS](https://dalspace.library.dal.ca/bitstream/handle/10222/65249/Lapierre-Nathan-MCSc-Dec-2015.pdf)|[General Purpose Computing on GPU in .NET World – Part 1](https://softwarehut.com/blog/general-purpose-computing-gpu-net-world-part-1/)|[3D force-directed graph written in C#](https://github.com/zongzhengli/force-directed)|
-|[Efficient, High-Quality Force-Directed Graph Drawing](http://www.mathematica-journal.com/issue/v10i1/contents/graph_draw/graph_draw.pdf)|[General Purpose Computing on GPU in .NET World – Part 2](https://softwarehut.com/blog/general-purpose-computing-gpu-net-world-part-2/)|[HIVE PLOTS RATIONAL NETWORK VISUALIZATION](http://egweb.bcgsc.ca/)|
+|[METHOD FOR FAST FORCE-DIRECTED LAYOUT OF LARGE SCALE-FREE NETWORK GRAPHS](https://dalspace.library.dal.ca/bitstream/handle/10222/65249/Lapierre-Nathan-MCSc-Dec-2015.pdf)|[General Purpose Computing on GPU in .NET World â€“ Part 1](https://softwarehut.com/blog/general-purpose-computing-gpu-net-world-part-1/)|[3D force-directed graph written in C#](https://github.com/zongzhengli/force-directed)|
+|[Efficient, High-Quality Force-Directed Graph Drawing](http://www.mathematica-journal.com/issue/v10i1/contents/graph_draw/graph_draw.pdf)|[General Purpose Computing on GPU in .NET World â€“ Part 2](https://softwarehut.com/blog/general-purpose-computing-gpu-net-world-part-2/)|[HIVE PLOTS RATIONAL NETWORK VISUALIZATION](http://egweb.bcgsc.ca/)|
 |[Visualizing solutions in network analysis with visual basic for applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.466.7439&rep=rep1&type=pdf)|[A Visual and Interactive Guide to the Basics of Neural Networks]( http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)|[sciBASIC](https://github.com/xieguigang/sciBASIC)|
 |[Exploiting GPUs for fast force-directed visualization of large-scale networks](http://liacs.leidenuniv.nl/~takesfw/pdf/exploiting-gpus-fast.pdf)|[Middle-square method](https://en.wikipedia.org/wiki/Middle-square_method)|
 |[Improved Force-Directed Method of Graph Layout Generation with Adaptive Step Length](https://www.sciencedirect.com/science/article/pii/S1877050915034274)|[k-Means Clustering using CUDAfy.NET](https://antimatroid.wordpress.com/2015/09/01/k-means-clustering-using-cudafy-net/)|
 |[Clustering and Community Detection in Directed Networks: A Survey](https://arxiv.org/pdf/1308.0971.pdf)|[When processor is not enough](https://www.future-processing.pl/blog/when-processor-is-not-enough/)|
 |[Power Network Layout Generation using Force Directed Graph Technique](http://www.iitk.ac.in/npsc/Papers/NPSC2014/1569993659.pdf)|[<VBFixedString(3)>Dim i As String](https://www.codeproject.com/Answers/382294/How-can-i-declare-string-with-size.aspx#answer1)|
-|[Barnes–Hut simulation](https://en.wikipedia.org/wiki/Barnes%E2%80%93Hut_simulation)|[Drawing with Direct3D, Part 1: Getting Started](http://www.devx.com/dotnet/Article/36102)|
+|[Barnesâ€“Hut simulation](https://en.wikipedia.org/wiki/Barnes%E2%80%93Hut_simulation)|[Drawing with Direct3D, Part 1: Getting Started](http://www.devx.com/dotnet/Article/36102)|
 |[campy GP-GPU computing](http://campynet.com/)|[OPENCL WRAPPERS](https://streamhpc.com/knowledge/for-developers/opencl-wrappers/)|
 
 # ```Notes```
@@ -89,5 +89,6 @@ A Simple but also quite powerful and Beautiful [Force directed graph](https://en
 Please Dont blame me for my ??ed ?? ??code :/ i had some difficult time, overcoming some things...so, i would say that, even if i had the whole summer quite free, i had not as much time,  as i would want to have in order to focus on this part of my project, way much more[...] +really wanted to upload it, before the end of summer holidays; thats why i am uploading it now, even if it is way to weirdly written. With hope that a "good samaritan" will find it intresting and fulfill my wishes.
 
 With Love to all of you out there, George.
+
 
 ---
