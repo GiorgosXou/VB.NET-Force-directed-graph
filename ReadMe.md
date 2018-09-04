@@ -1,9 +1,7 @@
-
 # [VB.NET](https://en.wikipedia.org/wiki/Visual_Basic_.NET) Force directed graph 
 with { +GPU, +DirectX, +GPU GUI Example of buttons}
 
 A Simple but also quite powerful and Beautiful [Force directed graph](https://en.wikipedia.org/wiki/Force-directed_graph_drawing) made with Love for an upcoming project of mine and for everyone out there that needs some help over graph visualization in Visual Basic [...]
-
 ![alt tag](https://i.giphy.com/2UJxjRfPcxkjgsjQ04.gif)
 # Features
 
@@ -11,13 +9,13 @@ A Simple but also quite powerful and Beautiful [Force directed graph](https://en
 - GUI like Interactions Using [DirectX](https://en.wikipedia.org/wiki/DirectX) for Drawing Stuffs.
 - CPU Parallel algorithms for the rest of Graph interactions.
 - OpenCL CudafyTranslator for plenty of GPU Cards support.
-- Runs on ```NET Framework 4.0``` ! (? on Windows XP simulation).
+- Runs on ```NET Framework 4.0``` ! (✓ on Windows XP simulation).
 
 # ```Important```
 
 - ```Notes``` (at the Bottom of .md).
 - Code is really not at all, optimized!
-- Code will be "recreated" once i end with my other stuffs if not anyone?? remake it until then.
+- Code will be "recreated" once i end with my other stuffs if not anyone❤︎ remake it until then.
 - If you have Error Code.. S1023 when installing DirectX SDK, uninstall c++ 2010 redistributables.
 - Check ["Remove integer overflow checks"](https://stackoverflow.com/questions/33742792/does-anyone-had-ever-successfully-utilized-cudafy-in-vb-net) under Project Properties > Compile > Advanced Compile Options > Optimizations. Else CUDAfy code wont Compile.
 # Summary
@@ -69,7 +67,7 @@ A Simple but also quite powerful and Beautiful [Force directed graph](https://en
 
 # Searches Across Internet
 ---
-| Intresting Papers ??| Intresting Sites| Graphs|
+| Intresting Papers 📝| Intresting Sites| Graphs|
 | ------ | ------ | ------ |
 |[Simple Algorithms for Network Visualization](https://pdfs.semanticscholar.org/9f0f/5a1507b83f96bcedbf2b8971fde21948b086.pdf)|[VB Graphics Programming: Part 4 (Optimizations Checklist)](http://www.tannerhelland.com/43/vb-graphics-programming-4/)|[graphing with Graphviz](http://www.washedashore.com/people/friendster/friendster3.html)|
 |[A Force Directed Placement Method](https://pdfs.semanticscholar.org/0cb0/4409a72f4499a4a1bce0dffcf8e789ef8649.pdf)|[Direct3D For Dummiez (In VB6) written by: Matt Carpenter](http://agrino.org/hsg/DirectX/DX.htm)|[wingraphviz](http://wingraphviz.sourceforge.net/wingraphviz/)|
@@ -86,9 +84,8 @@ A Simple but also quite powerful and Beautiful [Force directed graph](https://en
 
 # ```Notes```
 
-Please Dont blame me for my ??ed ?? ??code :/ i had some difficult time, overcoming some things...so, i would say that, even if i had the whole summer quite free, i had not as much time,  as i would want to have in order to focus on this part of my project, way much more[...] +really wanted to upload it, before the end of summer holidays; thats why i am uploading it now, even if it is way to weirdly written. With hope that a "good samaritan" will find it intresting and fulfill my wishes.
+Please Dont blame me for my 🦆ed ☝️ 📄code :/ i had some difficult time, overcoming some things...so, i would say that, even if i had the whole summer quite free, i had not as much time,  as i would want to have in order to focus on this part of my project, way much more[...] +really wanted to upload it, before the end of summer holidays; thats why i am uploading it now, even if it is way to weirdly written. With hope that a "good samaritan" will find it intresting and fulfill my wishes.
 
 With Love to all of you out there, George.
-
 
 ---
