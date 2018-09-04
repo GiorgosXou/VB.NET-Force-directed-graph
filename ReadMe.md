@@ -46,19 +46,19 @@ A Simple but also quite powerful and Beautiful [Force directed graph](https://en
 # Features I Wish For 
 ```Considering my knowledge at this moment [...]```
 - Easy :
-  
+  -
   -- Thickness Of Lines, Based on Connections or etc.
   -- Size Of Node, Based on  Connections or etc.
   -- [...]
 
 - Medium:
-  
+  -
   -- generally Low Level Grapchics
   -- Clustering algorithms
   -- Faster Algorithms
 
 - Hard :
-  
+  -
   -- *3D Graph visualization*.
   -- *Make it as a Form **Control***. 
   -- Recreation of most of the controls using DirectX.
