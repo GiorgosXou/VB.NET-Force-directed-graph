@@ -15,7 +15,7 @@ A Simple but also quite powerful and Beautiful [Force directed graph](https://en
 # ```Important```
 
 - ```Notes``` (at the Bottom of .md).
-- Code is really not at all, optimized!
+- Code is really not at all, optimized! and RAW!
 - Code will be "recreated" once i end with my other stuffs if not anyone❤︎ remake it until then.
 - If you have Error Code.. S1023 when installing DirectX SDK, uninstall c++ 2010 redistributables.
 - Check ["Remove integer overflow checks"](https://stackoverflow.com/questions/33742792/does-anyone-had-ever-successfully-utilized-cudafy-in-vb-net) under Project Properties > Compile > Advanced Compile Options > Optimizations. Else CUDAfy code wont Compile.
