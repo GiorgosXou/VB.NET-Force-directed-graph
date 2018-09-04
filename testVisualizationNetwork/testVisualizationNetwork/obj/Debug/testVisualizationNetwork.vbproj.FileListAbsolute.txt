@@ -1,0 +1,31 @@
+C:\Users\gxous\AppData\Local\Temporary Projects\testVisualizationNetwork\bin\Debug\testVisualizationNetwork.exe.config
+C:\Users\gxous\AppData\Local\Temporary Projects\testVisualizationNetwork\bin\Debug\testVisualizationNetwork.exe
+C:\Users\gxous\AppData\Local\Temporary Projects\testVisualizationNetwork\bin\Debug\testVisualizationNetwork.pdb
+C:\Users\gxous\AppData\Local\Temporary Projects\testVisualizationNetwork\bin\Debug\testVisualizationNetwork.xml
+C:\Users\gxous\AppData\Local\Temporary Projects\testVisualizationNetwork\obj\Debug\testVisualizationNetwork.Form1.resources
+C:\Users\gxous\AppData\Local\Temporary Projects\testVisualizationNetwork\obj\Debug\testVisualizationNetwork.Resources.resources
+C:\Users\gxous\AppData\Local\Temporary Projects\testVisualizationNetwork\obj\Debug\testVisualizationNetwork.vbproj.GenerateResource.Cache
+C:\Users\gxous\AppData\Local\Temporary Projects\testVisualizationNetwork\obj\Debug\testVisualizationNetwork.vbproj.CoreCompileInputs.cache
+C:\Users\gxous\AppData\Local\Temporary Projects\testVisualizationNetwork\obj\Debug\testVisualizationNetwork.exe
+C:\Users\gxous\AppData\Local\Temporary Projects\testVisualizationNetwork\obj\Debug\testVisualizationNetwork.xml
+C:\Users\gxous\AppData\Local\Temporary Projects\testVisualizationNetwork\obj\Debug\testVisualizationNetwork.pdb
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\bin\Debug\testVisualizationNetwork.exe.config
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\bin\Debug\testVisualizationNetwork.exe
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\bin\Debug\testVisualizationNetwork.pdb
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\bin\Debug\testVisualizationNetwork.xml
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\obj\Debug\testVisualizationNetwork.vbprojResolveAssemblyReference.cache
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\obj\Debug\testVisualizationNetwork.Resources.resources
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\obj\Debug\testVisualizationNetwork.vbproj.GenerateResource.Cache
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\obj\Debug\testVisualizationNetwork.vbproj.CoreCompileInputs.cache
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\obj\Debug\testVisualizationNetwork.exe
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\obj\Debug\testVisualizationNetwork.xml
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\obj\Debug\testVisualizationNetwork.pdb
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\obj\Debug\testVisualizationNetwork.Form1.resources
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\bin\Debug\Microsoft.DirectX.dll
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\bin\Debug\Microsoft.DirectX.xml
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\bin\Debug\Cudafy.NET.dll
+C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\bin\Debug\Cudafy.NET.xml

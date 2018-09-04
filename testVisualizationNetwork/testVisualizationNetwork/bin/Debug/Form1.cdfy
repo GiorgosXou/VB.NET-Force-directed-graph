@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CudafyModule Version="1.29.5576.13786" Name="Form1" DebugInfo="false" HasCudaSourceCode="false" HasPTX="false" HasBinary="false">
+  <CudaSourceCode></CudaSourceCode>
+  <PTXMODULES />
+  <BinaryModules />
+  <SourceCodes>
+    <SourceCodeFile ID="48a9a70b-0b0c-4ba1-84fc-8b1090a9f95e" Language="OpenCL" Arch="OpenCL">I2lmIGRlZmluZWQoY2xfa2hyX2ZwNjQpDQojcHJhZ21hIE9QRU5DTCBFWFRFTlNJT04gY2xfa2hyX2ZwNjQ6IGVuYWJsZQ0KI2VsaWYgZGVmaW5lZChjbF9hbWRfZnA2NCkNCiNwcmFnbWEgT1BFTkNMIEVYVEVOU0lPTiBjbF9hbWRfZnA2NDogZW5hYmxlDQojZW5kaWYNCnN0cnVjdCBGb3JtMU5vZGVTdHJ1Y3QNCnsNCglpbnQgWDsNCglpbnQgWTsNCglpbnQgRm9yY2VfWDsNCglpbnQgRm9yY2VfWTsNCn07DQoNCg0KLy8gdGVzdFZpc3VhbGl6YXRpb25OZXR3b3JrLkZvcm0xDQpfX2tlcm5lbCAgdm9pZCB0aGVrZXJuZWwoZ2xvYmFsIHN0cnVjdCBGb3JtMU5vZGVTdHJ1Y3QqIGEsIGludCBhTGVuMCwgZ2xvYmFsIGludCogUHJvcHMsIGludCBQcm9wc0xlbjApOw0KDQovLyB0ZXN0VmlzdWFsaXphdGlvbk5ldHdvcmsuRm9ybTENCl9fa2VybmVsICB2b2lkIHRoZWtlcm5lbChnbG9iYWwgc3RydWN0IEZvcm0xTm9kZVN0cnVjdCogYSwgaW50IGFMZW4wLCBnbG9iYWwgaW50KiBQcm9wcywgaW50IFByb3BzTGVuMCkNCnsNCglpbnQgbnVtID0gZ2V0X2xvY2FsX2lkKDApICsgZ2V0X2dyb3VwX2lkKDApICogZ2V0X2xvY2FsX3NpemUoMCk7DQoJaW50IG51bTIgPSBudW0gKyAxOw0KCWludCBudW0zID0gUHJvcHNbKDEpXSAtIDE7DQoJZm9yIChpbnQgaSA9IG51bTI7IGkgPD0gbnVtMzsgaSsrKQ0KCXsNCgkJaW50IG51bTQgPSBhWyhpKV0uWCAtIGFbKG51bSldLlg7DQoJCWludCBudW01ID0gYVsoaSldLlkgLSBhWyhudW0pXS5ZOw0KCQlib29sIGZsYWcgPSBudW00ID4gMCB8IG51bTUgPiAwOw0KCQlpZiAoZmxhZykNCgkJew0KCQkJaW50IG51bTYgPSBudW00ICogbnVtNCArIG51bTUgKiBudW01Ow0KCQkJaW50IG51bTcgPSAoaW50KXJpbnQoKGRvdWJsZSlzcXJ0KChmbG9hdCludW02KSk7DQoJCQlpbnQgbnVtOCA9IChpbnQpcmludCgoZG91YmxlKVByb3BzWygwKV0gLyAoZG91YmxlKW51bTYpOw0KCQkJaW50IG51bTkgPSAoaW50KXJpbnQoKGRvdWJsZSkobnVtOCAqIG51bTQpIC8gKGRvdWJsZSludW03KTsNCgkJCWludCBudW0xMCA9IChpbnQpcmludCgoZG91YmxlKShudW04ICogbnVtNSkgLyAoZG91YmxlKW51bTcpOw0KCQkJaW50IGV4cHJfREZfY3BfMF9jcF8xID0gbnVtOw0KCQkJYVsoZXhwcl9ERl9jcF8wX2NwXzEpXS5Gb3JjZV9YID0gYVsoZXhwcl9ERl9jcF8wX2NwXzEpXS5Gb3JjZV9YIC0gbnVtOTsNCgkJCWludCBleHByX0Y0X2NwXzBfY3BfMSA9IG51bTsNCgkJCWFbKGV4cHJfRjRfY3BfMF9jcF8xKV0uRm9yY2VfWSA9IGFbKGV4cHJfRjRfY3BfMF9jcF8xKV0uRm9yY2VfWSAtIG51bTEwOw0KCQkJaW50IGV4cHJfMTBBX2NwXzBfY3BfMSA9IGk7DQoJCQlhWyhleHByXzEwQV9jcF8wX2NwXzEpXS5Gb3JjZV9YID0gYVsoZXhwcl8xMEFfY3BfMF9jcF8xKV0uRm9yY2VfWCArIG51bTk7DQoJCQlpbnQgZXhwcl8xMjBfY3BfMF9jcF8xID0gaTsNCgkJCWFbKGV4cHJfMTIwX2NwXzBfY3BfMSldLkZvcmNlX1kgPSBhWyhleHByXzEyMF9jcF8wX2NwXzEpXS5Gb3JjZV9ZICsgbnVtMTA7DQoJCX0NCgkJYm9vbCBmbGFnMiA9IG51bTQgPT0gMDsNCgkJaWYgKGZsYWcyKQ0KCQl7DQoJCQlpbnQgZXhwcl8xNDJfY3BfMF9jcF8xID0gbnVtOw0KCQkJYVsoZXhwcl8xNDJfY3BfMF9jcF8xKV0uRm9yY2VfWCA9IChpbnQpcmludCgoZG91YmxlKSgoZmxvYXQpYVsoZXhwcl8xNDJfY3BfMF9jcF8xKV0uRm9yY2VfWCArIHJpbnQoKGZsb2F0KSgxLjAgKyAxLjAgLyAoZG91YmxlKWkpKSkpOw0KCQkJaW50IGV4cHJfMTdDX2NwXzBfY3BfMSA9IGk7DQoJCQlhWyhleHByXzE3Q19jcF8wX2NwXzEpXS5Gb3JjZV9YID0gKGludClyaW50KChkb3VibGUpKChmbG9hdClhWyhleHByXzE3Q19jcF8wX2NwXzEpXS5Gb3JjZV9YICsgcmludCgoZmxvYXQpKC0xLjAgKyAxLjAgLyAoZG91YmxlKW51bSkpKSk7DQoJCX0NCgkJYm9vbCBmbGFnMyA9IG51bTUgPT0gMDsNCgkJaWYgKGZsYWczKQ0KCQl7DQoJCQlpbnQgZXhwcl8xQzFfY3BfMF9jcF8xID0gbnVtOw0KCQkJYVsoZXhwcl8xQzFfY3BfMF9jcF8xKV0uRm9yY2VfWSA9IChpbnQpcmludCgoZG91YmxlKSgoZmxvYXQpYVsoZXhwcl8xQzFfY3BfMF9jcF8xKV0uRm9yY2VfWSArIHJpbnQoKGZsb2F0KSgtMS4wICsgMS4wIC8gKGRvdWJsZSlpKSkpKTsNCgkJCWludCBleHByXzFGQl9jcF8wX2NwXzEgPSBpOw0KCQkJYVsoZXhwcl8xRkJfY3BfMF9jcF8xKV0uRm9yY2VfWSA9IChpbnQpcmludCgoZG91YmxlKSgoZmxvYXQpYVsoZXhwcl8xRkJfY3BfMF9jcF8xKV0uRm9yY2VfWSArIHJpbnQoKGZsb2F0KSgxLjAgKyAxLjAgLyAoZG91YmxlKW51bSkpKSk7DQoJCX0NCgl9DQp9DQo=</SourceCodeFile>
+  </SourceCodes>
+  <Functions>
+    <CudafyKernelMethod Name="thekernel" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>testVisualizationNetwork.Form1</Type>
+      <Assembly>testVisualizationNetwork, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>testVisualizationNetwork</AssemblyName>
+      <AssemblyPath>C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\bin\Debug\testVisualizationNetwork.exe</AssemblyPath>
+      <Checksum>2713985331</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+        <Parameter Type="Cudafy.GThread" Name="thread" Position="0" />
+        <Parameter Type="testVisualizationNetwork.Form1+NodeStruct[]" Name="a" Position="1" />
+        <Parameter Type="System.Int32[]" Name="Props" Position="2" />
+      </Parameters>
+    </CudafyKernelMethod>
+  </Functions>
+  <Constants />
+  <Types>
+    <CudafyType Name="NodeStruct" IsDummy="false" DummyBehaviour="Default">
+      <Type>testVisualizationNetwork.Form1+NodeStruct</Type>
+      <Assembly>testVisualizationNetwork, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>testVisualizationNetwork</AssemblyName>
+      <AssemblyPath>C:\Users\gxous\έγγραφα\visual studio 2017\Projects\testVisualizationNetwork\testVisualizationNetwork\bin\Debug\testVisualizationNetwork.exe</AssemblyPath>
+      <Checksum>2713985331</Checksum>
+    </CudafyType>
+  </Types>
+</CudafyModule>
