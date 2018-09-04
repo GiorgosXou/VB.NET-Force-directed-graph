@@ -3,6 +3,7 @@ with { +GPU, +DirectX, +GPU GUI Example of buttons}
 
 A Simple but also quite powerful and Beautiful [Force directed graph](https://en.wikipedia.org/wiki/Force-directed_graph_drawing) made with Love for an upcoming project of mine and for everyone out there that needs some help over graph visualization in Visual Basic [...]
 ![alt tag](https://i.giphy.com/2UJxjRfPcxkjgsjQ04.gif)
+![Alt Text](https://i.giphy.com/2UJxjRfPcxkjgsjQ04.gif)
 # Features
 
 - Uses [Cudafy.NET](https://en.wikipedia.org/wiki/CUDA)  for GPGPU calculation of forces.
